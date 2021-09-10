@@ -16,14 +16,14 @@ I write a lot of code now, but it wasn't always this way. Before I settled into 
 -->
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <div>
     <img align="center" hspace="20" src="https://github-readme-stats.vercel.app/api?username=ecshreve&show_icons=true&theme=gruvbox&count_private=true" />
-  </a>
+  </div>
   
-  <br>
+  <br />
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <div>
     <img align="center" hspace="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecshreve&theme=gruvbox&langs_count=4" />
-  </a>
+  </div>
 </div>
 
