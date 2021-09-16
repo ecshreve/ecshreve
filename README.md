@@ -23,7 +23,7 @@ I write a lot of code now, but it wasn't always this way. Before I settled into 
   <br />
   
   <div>
-    <img align="center" hspace="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecshreve&theme=gruvbox&langs_count=4" />
+    <img align="center" hspace="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecshreve&theme=gruvbox&langs_count=3" />
   </div>
 </div>
 
